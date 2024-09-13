@@ -162,9 +162,9 @@ public class Principal {
 		animales[1] = prr;
 		animales[2] = gt;
 		System.out.println("Iterando en mi colección de animales:");
-		for(Animal a : animales) {
+		for(Animal a : animales)
 			a.sonidoAnimal();
-		}
+		
 	}
 	
 	public static void ejemploDeMetodos1() {
