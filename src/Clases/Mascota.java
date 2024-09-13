@@ -3,6 +3,7 @@ package Clases;
 public class Mascota {
 	protected String nombre;
 	protected String raza;
+	
 	public Mascota(String nombre, String raza) {
 		super();
 		this.nombre = nombre;
